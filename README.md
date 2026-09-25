@@ -34,6 +34,8 @@ Cross-examined drop-out by funnel stage, product category, and seller.
 1. Order Status Distribution
 
 97.02% of all orders were successfully delivered. The remaining ~3% is split across cancellations, unavailable stock, and orders stuck mid-process.
+![image alt](https://github.com/kishan45yadav/e-commerce_customers_dropout_analysis/blob/main/order_status_distribution.png?raw=true)
+
 
 2. Funnel Analysis — Where Orders Are Lost
 Stage	Orders Remaining	Drop from Previous Stage
