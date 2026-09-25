@@ -43,7 +43,7 @@ Purchased	99,441	—
 Approved	99,281	-160 (0.16%)
 Shipped	97,658	-1,623 (1.63%)
 Delivered	96,476	-1,182 (1.21%)
-
+![image alt](https://github.com/kishan45yadav/e-commerce_customers_dropout_analysis/blob/main/newplot.png?raw=true)
 ➡️ The Approved → Shipped transition is the single largest leak in the funnel.
 
 3. Cancellation Timing
